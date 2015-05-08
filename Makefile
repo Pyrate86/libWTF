@@ -6,7 +6,7 @@
 #    By: ghilbert <ghilbert@student.42.fr>          +#+  +:+       +#+         #
 #                                                 +#+#+#+#+#+   +#+            #
 #    Created: 2014/11/29 15:35:12 by ghilbert          #+#    #+#              #
-#    Updated: 2015/05/06 17:12:29 by ghilbert         ###   ########.fr        #
+#    Updated: 2015/05/08 21:33:15 by ghilbert         ###   ########.fr        #
 #                                                                              #
 # **************************************************************************** #
 
@@ -19,6 +19,7 @@ INC_PATH	= includes/
 INCLUDES	= -I$(INC_PATH) -Ilibft/includes
 
 SRC_NAME	=	wtf_ikea.c \
+				wtf_marseillais.c \
 				wtf_putcolor.c \
 				wtf_rainbow.c
 				

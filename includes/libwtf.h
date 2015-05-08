@@ -6,7 +6,7 @@
 /*   By: ghilbert <ghilbert@student.42.fr>          +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2014/11/23 17:00:59 by ghilbert          #+#    #+#             */
-/*   Updated: 2015/05/06 16:52:55 by ghilbert         ###   ########.fr       */
+/*   Updated: 2015/05/08 21:27:37 by ghilbert         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
@@ -49,5 +49,7 @@ void	wtf_putcolor(char *str, int color);
 void	wtf_putcolorendl(char *str, int color);
 
 void	wtf_ikea(char *str);
+
+void	wtf_marseillais(char *str);
 
 #endif

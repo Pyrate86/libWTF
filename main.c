@@ -7,6 +7,7 @@ int main(void)
 	wtf_dbl_rainbow("wtf_dbl_rainbow\n");
 	wtf_putcolorendl("Ikea : ", 1);
 	wtf_ikea("Lorem ipsum dolor sit amet, consectetur adipiscing elit metus.");
+	wtf_marseillais("wtf_marseillais, la fonction.\n");
 	wtf_putcolorendl("wtf_putcolorendl", 34);
 	wtf_putcolor("wtf_putcolor", 31);
 	return (0);
